@@ -49,9 +49,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  linkedin: Xiaomei Tan
-  google-scholar: "https://scholar.google.com/citations?user=1i7gNcwAAAAJ&hl=en&oi=ao" 
+  email: "xmtan@outlook.com"
+  linkedin: "www.linkedin.com/in/xiaomei-tan"
+  google-scholar: "https://www.linkedin.com/in/xiaomei-tan/?msgControlName=reply_to_sender&msgConversationId=2-ZmYxOTJkYmMtNGI3My00YTc4LTgzNjctZTc3NmIzOTg3Y2Y3XzAxMg%3D%3D&msgOverlay=true" 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
