@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Xiaomei Tan
+title: Xiaomei Tan (谭笑梅)
 
 # Your name to show in the footer
 author: Xiaomei Tan
@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "xmtan@outlook.com"
-  linkedin: "www.linkedin.com/in/xiaomei-tan"
+  linkedin: "https://linkedin.com/in/xiaomei-tan"
   google-scholar: "https://www.linkedin.com/in/xiaomei-tan/?msgControlName=reply_to_sender&msgConversationId=2-ZmYxOTJkYmMtNGI3My00YTc4LTgzNjctZTc3NmIzOTg3Y2Y3XzAxMg%3D%3D&msgOverlay=true" 
 #  medium: yourname
 #  reddit: yourname
